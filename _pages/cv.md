@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Neuroscience and Behavior, University of Notre Dame, 2018
-* Ph.D in Neuroscience, Massachusetts Institute of Technology, 2025 (expected)
+* Ph.D. in Neuroscience, Massachusetts Institute of Technology, 2025 (expected)
 
 Research experience
 ======
