@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Ventral hippocampus interacts with prelimbic cortex during inhibition of threat response via learned safety in both mice and humans"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Although fear can contribute to survival, difficulty regulating threat responses can interfere with goal-directed activities and is the hallmark of anxiety disorders. These disorders are the most common psychiatric illnesses, affecting up to one-third of the population. In parallel studies across species, we identify a pathway that engages the ventral hippocampus for the attenuation of threat responses through conditioned inhibition. Conditioned inhibition relies on the specific involvement of ventral hippocampal neurons projecting to the prelimbic cortex in mice and homologous ventral hippocampal–dorsal anterior cingulate cortex functional connectivity in humans. These findings highlight a pathway for the inhibition of fear with the potential to enhance interventions for anxiety disorders by targeting an alternative neural circuitry through safety signal learning.'
+date: 2019-12-10
+venue: 'Proceedings of the National Academy of Sciences'
+paperurl: 'http://sadiezacharek.github.io/files/MeyerOdriozola2019.pdf'
+citation: 'Meyer, H.C., Odriozola, P., Cohodes, E.M., Mandell, J.D., Li, A., Yang, R.R., Hall, B.S., Haberman, J.T., Zacharek, S.J., Liston, C., Lee, F.S., Gee, D.G. (2019). Ventral hippocampus interacts with prelimbic cortex during inhibition of threat response via learned safety in both mice and humans. <i>Proceedings of the National Academy of Sciences</i>.'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://sadiezacharek.github.io/files/MeyerOdriozola2019.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Meyer et al. (2019). "Ventral hippocampus interacts with prelimbic cortex during inhibition of threat response via learned safety in both mice and humans." <i>Proceedings of the National Academy of Sciences</i>.
