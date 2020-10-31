@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "This website is currently under construction!"
+title                    : "Sadie Zacharek"
 title_separator          : "-"
 name                     : &name "Sadie Zacharek"
 description              : &description "MIT Brain and Cognitive Sciences Graduate Student"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pOdysNgAAAAJ&hl=en"
-  email            :
+  email            : "sadiez@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
