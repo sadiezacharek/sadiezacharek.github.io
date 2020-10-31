@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Neuroscience and Behavior, University of Notre Dame, 2018
+* Ph.D in Neuroscience, Massachusetts Institute of Technology, 2025 (expected)
 
 Work experience
 ======
