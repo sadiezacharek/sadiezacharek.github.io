@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Sadie Zacharek's academic website!
+This website is currently under construction!
 
 
